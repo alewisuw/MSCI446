@@ -2,4 +2,4 @@
 
 ### Our Project
 
-- We decided to build
+- We decided to build 
