@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to predict the value of used cars using machine learning techniques. We utilized a dataset sourced from Kaggle, which contains various features of used cars along with their corresponding prices.
+This project aims to predict the value of used cars using machine learning techniques. We utilized a dataset sourced from [Kaggle](https://www.kaggle.com/datasets/focusedmonk/true-value-cars-dataset/data), which contains various features of used cars along with their corresponding prices.
 
 ## Models Explored
 
