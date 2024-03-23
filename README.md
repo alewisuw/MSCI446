@@ -21,6 +21,10 @@ We explored a total of eight different types of regression models, including:
 
 Among the models tested, AdaBoost initially showed the poorest performance. However, we improved its performance significantly through hyperparameter tuning. This involved adjusting key parameters to optimize the model's predictive accuracy.
 
+## Boostrapping
+
+Given that our dataset was small, we implemented bootstrapping as it allowed us to make the most out of the limited data we have by resampling from it with replacement
+
 ## How to Use
 
 1. **Data**: Ensure you have access to the Kaggle dataset containing information on used cars.
